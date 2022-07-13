@@ -33,3 +33,5 @@ variable "CREATE_INTERNET_GW" {
 variable "CREATE_NAT_GW" {
   default = false
 }
+
+variable "AZ" {}
